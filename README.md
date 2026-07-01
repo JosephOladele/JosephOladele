@@ -10,7 +10,8 @@ Software engineer with a focus on full stack development. I build clean, scalabl
 
 ## 🚀 What I'm About
 
-I work across the entire stack — from designing intuitive interfaces to building robust APIs and backend services. I care about clean architecture, maintainable code, and shipping products that work.
+I work across the entire stack 
+from designing intuitive interfaces to building robust APIs and backend services. I care about clean architecture, maintainable code, and shipping products that work.
 
 ## 📫 Connect
 
