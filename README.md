@@ -59,6 +59,9 @@ I am a **full-stack software engineer** who builds clean, scalable products end 
   <a href="mailto:josepholadele001@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://jo-oladele.vercel.app" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
