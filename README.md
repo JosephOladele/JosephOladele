@@ -35,9 +35,8 @@ I am a **full-stack software engineer** who builds clean, scalable products end 
 ### 🏗️ Highlighted Work
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[StellarFraction](https://github.com/StellarFraction)** | React · NestJS · Rust / Soroban | Fractional real-estate investment platform on Stellar — React frontend, NestJS backend, and dividend-distribution smart contracts. |
-| **[soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)** | Rust | A contributor-friendly CLI toolkit for scaffolding, testing, and CI-ing Soroban smart contracts. |
-| **Full-Stack APIs** | Node.js · NestJS · Prisma | Type-safe REST services with clean architecture, authentication, and robust error handling. |
+| **[Balin](https://github.com/JosephOladele/balin)** &nbsp;·&nbsp; [🔗 Live](https://balin-two.vercel.app) | React 19 · TypeScript · GSAP · Vite | An immersive one-page *digital fashion house* — cinematic scroll-scrubbed reveals, a pinned horizontal lookbook, and premium editorial typography powered by GSAP + Lenis smooth scrolling. |
+| **[Petal Chat](https://github.com/JosephOladele/petal-chat-app)** &nbsp;·&nbsp; [🔗 Live](https://petal-chat-app.vercel.app) | React · Vite · CSS | A polished, pink-themed React chat application with a fully designed messaging UI — sidebar, conversations, avatars, unread badges, and animated read receipts. |
 
 ---
 
