@@ -31,3 +31,12 @@ I am a **full-stack software engineer** who builds clean, scalable products end 
 </p>
 
 ---
+
+### 🏗️ Highlighted Work
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[StellarFraction](https://github.com/StellarFraction)** | React · NestJS · Rust / Soroban | Fractional real-estate investment platform on Stellar — React frontend, NestJS backend, and dividend-distribution smart contracts. |
+| **[soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)** | Rust | A contributor-friendly CLI toolkit for scaffolding, testing, and CI-ing Soroban smart contracts. |
+| **Full-Stack APIs** | Node.js · NestJS · Prisma | Type-safe REST services with clean architecture, authentication, and robust error handling. |
+
+---
