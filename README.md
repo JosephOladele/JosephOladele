@@ -13,3 +13,21 @@
 </p>
 
 ---
+
+### 📖 Professional Summary
+I am a **full-stack software engineer** who builds clean, scalable products end to end — from intuitive React interfaces to robust Node.js / NestJS APIs — and I write **Soroban smart contracts** on the Stellar network. I care about maintainable architecture, type-safe code, and shipping things that actually work.
+
+- 🛠️ **Core Expertise**: Full-Stack Web Development, API & Backend Design, Smart Contracts (Rust / Soroban).
+- 🚀 **Interests**: Type-safe architectures, Web3 / on-chain applications, and developer tooling.
+- 📈 **Approach**: Clean architecture, thorough testing, and continuous improvement in every commit.
+
+---
+
+### 💻 Technical Ecosystem
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,rust,react,nextjs,nodejs,nestjs,tailwind,prisma,postgres,mongodb,docker,git,github,vscode&perline=8" />
+  </a>
+</p>
+
+---
