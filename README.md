@@ -40,3 +40,29 @@ I am a **full-stack software engineer** who builds clean, scalable products end 
 | **Full-Stack APIs** | Node.js · NestJS · Prisma | Type-safe REST services with clean architecture, authentication, and robust error handling. |
 
 ---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JosephOladele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephOladele&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosephOladele&theme=github-compact&hide_border=true&area=true&color=36BCF7" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://github.com/JosephOladele" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:josepholadele001@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares." />
+</p>
