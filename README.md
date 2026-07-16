@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Craft-Frontend_%26_UI-orange?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JosephOladele&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+</p>
+
 ---
 
 ### 📖 Professional Summary
