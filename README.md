@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://jo-oladele.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=I+build+products+end+to+end;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Interfaces+that+feel+fast+and+look+sharp;Open+source%2C+35%2B+merged+PRs" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=I+build+products+end+to+end;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Interfaces+that+feel+fast+and+look+sharp;Open+source%2C+35%2B+merged+PRs" alt="Typing intro" />
   </a>
 </p>
 
@@ -12,7 +12,6 @@
   <a href="https://jo-oladele.vercel.app"><img src="https://img.shields.io/badge/Portfolio-jo--oladele.vercel.app-36BCF7?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
   <a href="mailto:josepholadele001@gmail.com"><img src="https://img.shields.io/badge/Email-josepholadele001%40gmail.com-7aa2f7?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_roles-9ece6a?style=flat-square&labelColor=1a1b27" alt="Open to roles" />
-  <img src="https://komarev.com/ghpvc/?username=JosephOladele&style=flat-square&color=36BCF7&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -112,11 +111,11 @@ const joseph = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosephOladele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true&border_radius=10" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOladele&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosephOladele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true&border_radius=10&disable_animations=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOladele&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&hide=batchfile&disable_animations=true" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JosephOladele&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=JosephOladele&theme=tokyonight&hide_border=true&border_radius=10&disable_animations=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
