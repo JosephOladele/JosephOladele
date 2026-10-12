@@ -111,7 +111,7 @@ const joseph = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosephOladele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true&border_radius=10&disable_animations=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosephOladele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues&hide_rank=true&border_radius=10&disable_animations=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOladele&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&hide=batchfile&disable_animations=true" alt="Top languages" />
 </p>
 <p align="center">
