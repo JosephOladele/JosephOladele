@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://jo-oladele.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=I+build+products+end+to+end;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Interfaces+that+feel+fast+and+look+sharp;Open+source%2C+35%2B+merged+PRs" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=I+build+products+end+to+end;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Rust+%C2%B7+Python+%C2%B7+Java+%C2%B7+Go;Interfaces+that+feel+fast+and+look+sharp;Open+source%2C+35%2B+merged+PRs" alt="Typing intro" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## 👋 About me
 
-I'm a full-stack engineer. Most days that means React and TypeScript on the front, Node.js or NestJS behind it, and Postgres underneath. I like the part of the job where an interface stops feeling like a form and starts feeling like a product, and I like it more when the code behind it is boring to maintain.
+I'm a full-stack engineer. Most days that means React and TypeScript on the front, Node.js or NestJS behind it, and Postgres underneath, with Rust, Python, Java and Go when the job calls for them. I like the part of the job where an interface stops feeling like a form and starts feeling like a product, and I like it more when the code behind it is boring to maintain.
 
 Outside client work I contribute to open source: **35+ merged pull requests across 24 repositories** in the last year, mostly frontend, API and tooling work.
 
@@ -27,6 +27,7 @@ const joseph = {
   role: "Full-Stack Software Engineer",
   frontend: ["React", "Next.js", "TypeScript", "Tailwind", "GSAP"],
   backend: ["Node.js", "NestJS", "Prisma", "PostgreSQL", "MongoDB"],
+  languages: ["TypeScript", "JavaScript", "Rust", "Python", "Java", "Go"],
   tooling: ["Docker", "GitHub Actions", "Vite", "Vercel"],
   currently: "shipping open-source tools and polished web apps",
 };
@@ -38,7 +39,7 @@ const joseph = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,nestjs,prisma,postgres,mongodb,docker,githubactions,vercel,git&perline=8&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,nestjs,rust,py,java,go,prisma,postgres,mongodb,docker,githubactions,vercel,git&perline=10&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
