@@ -132,11 +132,12 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-2. 🎉 Merged PR [#123](https://github.com/soroban-forge-labs/soroban-lens/pull/123) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-3. 💪 Opened PR [#123](https://github.com/soroban-forge-labs/soroban-lens/pull/123) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-4. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-5. 🎉 Merged PR [#526](https://github.com/SoroWill/sorowill-contracts/pull/526) in [SoroWill/sorowill-contracts](https://github.com/SoroWill/sorowill-contracts)
+1. ⬆️ Pushed to [JosephOladele/joseph-portfolio](https://github.com/JosephOladele/joseph-portfolio)
+2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+3. 🎉 Merged PR [#123](https://github.com/soroban-forge-labs/soroban-lens/pull/123) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+4. 💪 Opened PR [#123](https://github.com/soroban-forge-labs/soroban-lens/pull/123) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+5. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+6. 🎉 Merged PR [#526](https://github.com/SoroWill/sorowill-contracts/pull/526) in [SoroWill/sorowill-contracts](https://github.com/SoroWill/sorowill-contracts)
 <!--END_SECTION:activity-->
 
 ---
