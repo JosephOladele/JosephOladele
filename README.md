@@ -132,9 +132,9 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#226](https://github.com/soroban-forge-labs/soroban-lens/pull/226) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-2. ❗ Opened issue [#225](https://github.com/soroban-forge-labs/soroban-lens/issues/225) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-3. ❗ Opened issue [#224](https://github.com/soroban-forge-labs/soroban-lens/issues/224) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+1. 💪 Opened PR [#1276](https://github.com/MetroLogic/fluxapay/pull/1276) in [MetroLogic/fluxapay](https://github.com/MetroLogic/fluxapay)
+2. ❗ Opened issue [#553](https://github.com/soroban-forge-labs/soroban-forge/issues/553) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+3. ❗ Opened issue [#552](https://github.com/soroban-forge-labs/soroban-forge/issues/552) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
