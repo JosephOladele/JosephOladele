@@ -132,9 +132,10 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-2. ❗ Opened issue [#619](https://github.com/soroban-forge-labs/soroban-forge/issues/619) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-3. ❗ Opened issue [#618](https://github.com/soroban-forge-labs/soroban-forge/issues/618) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+1. 🎉 Merged PR [#630](https://github.com/KCEE0901/trustchain-escrow/pull/630) in [KCEE0901/trustchain-escrow](https://github.com/KCEE0901/trustchain-escrow)
+2. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+3. ❗ Opened issue [#619](https://github.com/soroban-forge-labs/soroban-forge/issues/619) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+4. ❗ Opened issue [#618](https://github.com/soroban-forge-labs/soroban-forge/issues/618) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
