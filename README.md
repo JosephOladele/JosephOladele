@@ -132,10 +132,8 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#630](https://github.com/KCEE0901/trustchain-escrow/pull/630) in [KCEE0901/trustchain-escrow](https://github.com/KCEE0901/trustchain-escrow)
-2. 💪 Opened PR [#1276](https://github.com/MetroLogic/fluxapay/pull/1276) in [MetroLogic/fluxapay](https://github.com/MetroLogic/fluxapay)
-3. ❗ Opened issue [#553](https://github.com/soroban-forge-labs/soroban-forge/issues/553) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-4. ❗ Opened issue [#552](https://github.com/soroban-forge-labs/soroban-forge/issues/552) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+1. ❗ Opened issue [#619](https://github.com/soroban-forge-labs/soroban-forge/issues/619) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+2. ❗ Opened issue [#618](https://github.com/soroban-forge-labs/soroban-forge/issues/618) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
