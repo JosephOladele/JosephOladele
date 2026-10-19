@@ -134,7 +134,6 @@ const joseph = {
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 2. 💪 Opened PR [#314](https://github.com/progidyken-hub/BLUEWHALE/pull/314) in [progidyken-hub/BLUEWHALE](https://github.com/progidyken-hub/BLUEWHALE)
-3. 🎉 Merged PR [#630](https://github.com/KCEE0901/trustchain-escrow/pull/630) in [KCEE0901/trustchain-escrow](https://github.com/KCEE0901/trustchain-escrow)
 <!--END_SECTION:activity-->
 
 ---
