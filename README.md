@@ -137,9 +137,6 @@ const joseph = {
 3. 💪 Opened PR [#1990](https://github.com/obajecollinsmicheal-cmd/smile4money/pull/1990) in [obajecollinsmicheal-cmd/smile4money](https://github.com/obajecollinsmicheal-cmd/smile4money)
 4. 🎉 Merged PR [#837](https://github.com/SorobanGuard/Guard-CLI/pull/837) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
 5. 💪 Opened PR [#961](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/pull/961) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-)
-6. 🎉 Merged PR [#885](https://github.com/SorobanGuard/Guard-CLI/pull/885) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
-7. 🎉 Merged PR [#884](https://github.com/SorobanGuard/Guard-CLI/pull/884) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
-8. 🎉 Merged PR [#883](https://github.com/SorobanGuard/Guard-CLI/pull/883) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
 <!--END_SECTION:activity-->
 
 ---
