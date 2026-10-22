@@ -132,11 +132,9 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-2. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-3. 💪 Opened PR [#1990](https://github.com/obajecollinsmicheal-cmd/smile4money/pull/1990) in [obajecollinsmicheal-cmd/smile4money](https://github.com/obajecollinsmicheal-cmd/smile4money)
-4. 🎉 Merged PR [#837](https://github.com/SorobanGuard/Guard-CLI/pull/837) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
-5. 💪 Opened PR [#961](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/pull/961) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-)
+1. 🎉 Merged PR [#314](https://github.com/progidyken-hub/BLUEWHALE/pull/314) in [progidyken-hub/BLUEWHALE](https://github.com/progidyken-hub/BLUEWHALE)
+2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+3. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
