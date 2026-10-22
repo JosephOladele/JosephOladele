@@ -132,8 +132,8 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#314](https://github.com/progidyken-hub/BLUEWHALE/pull/314) in [progidyken-hub/BLUEWHALE](https://github.com/progidyken-hub/BLUEWHALE)
-2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+2. 🎉 Merged PR [#314](https://github.com/progidyken-hub/BLUEWHALE/pull/314) in [progidyken-hub/BLUEWHALE](https://github.com/progidyken-hub/BLUEWHALE)
 3. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
