@@ -134,9 +134,10 @@ const joseph = {
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-3. 💪 Opened PR [#410](https://github.com/Stellar-songifi/Lyricsflip_server/pull/410) in [Stellar-songifi/Lyricsflip_server](https://github.com/Stellar-songifi/Lyricsflip_server)
-4. 🎉 Merged PR [#961](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/pull/961) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-)
-5. 🎉 Merged PR [#314](https://github.com/progidyken-hub/BLUEWHALE/pull/314) in [progidyken-hub/BLUEWHALE](https://github.com/progidyken-hub/BLUEWHALE)
+3. 💪 Opened PR [#258](https://github.com/soroban-forge-labs/soroban-lens/pull/258) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+4. 💪 Opened PR [#410](https://github.com/Stellar-songifi/Lyricsflip_server/pull/410) in [Stellar-songifi/Lyricsflip_server](https://github.com/Stellar-songifi/Lyricsflip_server)
+5. 🎉 Merged PR [#961](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/pull/961) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-)
+6. 🎉 Merged PR [#314](https://github.com/progidyken-hub/BLUEWHALE/pull/314) in [progidyken-hub/BLUEWHALE](https://github.com/progidyken-hub/BLUEWHALE)
 <!--END_SECTION:activity-->
 
 ---
