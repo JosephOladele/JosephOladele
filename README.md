@@ -132,14 +132,14 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-3. 🎉 Merged PR [#242](https://github.com/soroban-forge-labs/soroban-lens/pull/242) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-4. 🎉 Merged PR [#241](https://github.com/soroban-forge-labs/soroban-lens/pull/241) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-5. 🎉 Merged PR [#243](https://github.com/soroban-forge-labs/soroban-lens/pull/243) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-6. 🎉 Merged PR [#258](https://github.com/soroban-forge-labs/soroban-lens/pull/258) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-7. 🎉 Merged PR [#1990](https://github.com/obajecollinsmicheal-cmd/smile4money/pull/1990) in [obajecollinsmicheal-cmd/smile4money](https://github.com/obajecollinsmicheal-cmd/smile4money)
-8. 🎉 Merged PR [#410](https://github.com/Stellar-songifi/Lyricsflip_server/pull/410) in [Stellar-songifi/Lyricsflip_server](https://github.com/Stellar-songifi/Lyricsflip_server)
+1. 🎉 Merged PR [#1](https://github.com/JosephOladele/joseph-portfolio/pull/1) in [JosephOladele/joseph-portfolio](https://github.com/JosephOladele/joseph-portfolio)
+2. 💪 Opened PR [#1](https://github.com/JosephOladele/joseph-portfolio/pull/1) in [JosephOladele/joseph-portfolio](https://github.com/JosephOladele/joseph-portfolio)
+3. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+4. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+5. 🎉 Merged PR [#242](https://github.com/soroban-forge-labs/soroban-lens/pull/242) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+6. 🎉 Merged PR [#241](https://github.com/soroban-forge-labs/soroban-lens/pull/241) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+7. 🎉 Merged PR [#243](https://github.com/soroban-forge-labs/soroban-lens/pull/243) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+8. 🎉 Merged PR [#258](https://github.com/soroban-forge-labs/soroban-lens/pull/258) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
 <!--END_SECTION:activity-->
 
 ---
