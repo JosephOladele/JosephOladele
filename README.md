@@ -132,7 +132,7 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-_No recent public activity._
+1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
 <!--END_SECTION:activity-->
 
 ---
