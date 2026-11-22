@@ -132,9 +132,14 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#272](https://github.com/soroban-forge-labs/soroban-lens/pull/272) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-2. ❗ Opened issue [#691](https://github.com/soroban-forge-labs/soroban-forge/issues/691) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-3. ❗ Opened issue [#692](https://github.com/soroban-forge-labs/soroban-forge/issues/692) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+2. 💪 Opened PR [#806](https://github.com/RWA-ToolKit/stellar-rwa-contracts/pull/806) in [RWA-ToolKit/stellar-rwa-contracts](https://github.com/RWA-ToolKit/stellar-rwa-contracts)
+3. 🎉 Merged PR [#273](https://github.com/soroban-forge-labs/soroban-lens/pull/273) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+4. 💪 Opened PR [#273](https://github.com/soroban-forge-labs/soroban-lens/pull/273) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+5. 🎉 Merged PR [#272](https://github.com/soroban-forge-labs/soroban-lens/pull/272) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+6. 💪 Opened PR [#272](https://github.com/soroban-forge-labs/soroban-lens/pull/272) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+7. ❗ Opened issue [#691](https://github.com/soroban-forge-labs/soroban-forge/issues/691) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+8. ❗ Opened issue [#692](https://github.com/soroban-forge-labs/soroban-forge/issues/692) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
