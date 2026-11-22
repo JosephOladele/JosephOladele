@@ -132,9 +132,9 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#717](https://github.com/soroban-forge-labs/soroban-forge/issues/717) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-2. ❗ Opened issue [#716](https://github.com/soroban-forge-labs/soroban-forge/issues/716) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-3. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+1. 🎉 Merged PR [#806](https://github.com/RWA-ToolKit/stellar-rwa-contracts/pull/806) in [RWA-ToolKit/stellar-rwa-contracts](https://github.com/RWA-ToolKit/stellar-rwa-contracts)
+2. ❗ Opened issue [#717](https://github.com/soroban-forge-labs/soroban-forge/issues/717) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+3. ❗ Opened issue [#716](https://github.com/soroban-forge-labs/soroban-forge/issues/716) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
