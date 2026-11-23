@@ -133,10 +133,8 @@ const joseph = {
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-2. 💪 Opened PR [#817](https://github.com/KCEE0901/trustchain-escrow/pull/817) in [KCEE0901/trustchain-escrow](https://github.com/KCEE0901/trustchain-escrow)
-3. 🎉 Merged PR [#806](https://github.com/RWA-ToolKit/stellar-rwa-contracts/pull/806) in [RWA-ToolKit/stellar-rwa-contracts](https://github.com/RWA-ToolKit/stellar-rwa-contracts)
-4. ❗ Opened issue [#717](https://github.com/soroban-forge-labs/soroban-forge/issues/717) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-5. ❗ Opened issue [#716](https://github.com/soroban-forge-labs/soroban-forge/issues/716) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+2. ❗ Opened issue [#918](https://github.com/soroban-forge-labs/soroban-forge/issues/918) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+3. ❗ Opened issue [#911](https://github.com/soroban-forge-labs/soroban-forge/issues/911) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
 <!--END_SECTION:activity-->
 
 ---
