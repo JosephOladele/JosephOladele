@@ -132,10 +132,8 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1210](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/pull/1210) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract)
-2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-3. ❗ Opened issue [#918](https://github.com/soroban-forge-labs/soroban-forge/issues/918) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-4. ❗ Opened issue [#911](https://github.com/soroban-forge-labs/soroban-forge/issues/911) in [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+2. 💪 Opened PR [#1210](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/pull/1210) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract)
 <!--END_SECTION:activity-->
 
 ---
