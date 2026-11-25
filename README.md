@@ -133,7 +133,7 @@ const joseph = {
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-2. 💪 Opened PR [#1210](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/pull/1210) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract)
+2. 💪 Opened PR [#1103](https://github.com/SorobanGuard/Guard-CLI/pull/1103) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
 <!--END_SECTION:activity-->
 
 ---
