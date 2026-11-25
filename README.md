@@ -132,8 +132,9 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-2. 💪 Opened PR [#1103](https://github.com/SorobanGuard/Guard-CLI/pull/1103) in [SorobanGuard/Guard-CLI](https://github.com/SorobanGuard/Guard-CLI)
+1. 💪 Opened PR [#552](https://github.com/Arbiter-xyz/arbiter-app/pull/552) in [Arbiter-xyz/arbiter-app](https://github.com/Arbiter-xyz/arbiter-app)
+2. ❗ Opened issue [#331](https://github.com/soroban-forge-labs/soroban-lens/issues/331) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+3. ❗ Opened issue [#330](https://github.com/soroban-forge-labs/soroban-lens/issues/330) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
 <!--END_SECTION:activity-->
 
 ---
