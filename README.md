@@ -132,14 +132,14 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/SorobanTags/STfrontend/pull/176) in [SorobanTags/STfrontend](https://github.com/SorobanTags/STfrontend)
-2. 💪 Opened PR [#2245](https://github.com/obajecollinsmicheal-cmd/smile4money/pull/2245) in [obajecollinsmicheal-cmd/smile4money](https://github.com/obajecollinsmicheal-cmd/smile4money)
-3. 💪 Opened PR [#184](https://github.com/Stellar-songifi/lyricsflip-toolkit/pull/184) in [Stellar-songifi/lyricsflip-toolkit](https://github.com/Stellar-songifi/lyricsflip-toolkit)
-4. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-5. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-6. 🎉 Merged PR [#1210](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/pull/1210) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract)
-7. 💪 Opened PR [#552](https://github.com/Arbiter-xyz/arbiter-app/pull/552) in [Arbiter-xyz/arbiter-app](https://github.com/Arbiter-xyz/arbiter-app)
-8. ❗ Opened issue [#331](https://github.com/soroban-forge-labs/soroban-lens/issues/331) in [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+1. 🎉 Merged PR [#184](https://github.com/Stellar-songifi/lyricsflip-toolkit/pull/184) in [Stellar-songifi/lyricsflip-toolkit](https://github.com/Stellar-songifi/lyricsflip-toolkit)
+2. 💪 Opened PR [#176](https://github.com/SorobanTags/STfrontend/pull/176) in [SorobanTags/STfrontend](https://github.com/SorobanTags/STfrontend)
+3. 💪 Opened PR [#2245](https://github.com/obajecollinsmicheal-cmd/smile4money/pull/2245) in [obajecollinsmicheal-cmd/smile4money](https://github.com/obajecollinsmicheal-cmd/smile4money)
+4. 💪 Opened PR [#184](https://github.com/Stellar-songifi/lyricsflip-toolkit/pull/184) in [Stellar-songifi/lyricsflip-toolkit](https://github.com/Stellar-songifi/lyricsflip-toolkit)
+5. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+6. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+7. 🎉 Merged PR [#1210](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/pull/1210) in [C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract)
+8. 💪 Opened PR [#552](https://github.com/Arbiter-xyz/arbiter-app/pull/552) in [Arbiter-xyz/arbiter-app](https://github.com/Arbiter-xyz/arbiter-app)
 <!--END_SECTION:activity-->
 
 ---
