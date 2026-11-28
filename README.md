@@ -132,10 +132,11 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#552](https://github.com/Arbiter-xyz/arbiter-app/pull/552) in [Arbiter-xyz/arbiter-app](https://github.com/Arbiter-xyz/arbiter-app)
+1. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
 2. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-3. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-4. 🎉 Merged PR [#176](https://github.com/SorobanTags/STfrontend/pull/176) in [SorobanTags/STfrontend](https://github.com/SorobanTags/STfrontend)
+3. 🎉 Merged PR [#817](https://github.com/KCEE0901/trustchain-escrow/pull/817) in [KCEE0901/trustchain-escrow](https://github.com/KCEE0901/trustchain-escrow)
+4. 🎉 Merged PR [#552](https://github.com/Arbiter-xyz/arbiter-app/pull/552) in [Arbiter-xyz/arbiter-app](https://github.com/Arbiter-xyz/arbiter-app)
+5. 🎉 Merged PR [#176](https://github.com/SorobanTags/STfrontend/pull/176) in [SorobanTags/STfrontend](https://github.com/SorobanTags/STfrontend)
 <!--END_SECTION:activity-->
 
 ---
