@@ -132,10 +132,10 @@ const joseph = {
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
-2. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
-3. 🎉 Merged PR [#176](https://github.com/SorobanTags/STfrontend/pull/176) in [SorobanTags/STfrontend](https://github.com/SorobanTags/STfrontend)
-4. 💪 Opened PR [#1424](https://github.com/MetroLogic/fluxapay/pull/1424) in [MetroLogic/fluxapay](https://github.com/MetroLogic/fluxapay)
+1. 🎉 Merged PR [#552](https://github.com/Arbiter-xyz/arbiter-app/pull/552) in [Arbiter-xyz/arbiter-app](https://github.com/Arbiter-xyz/arbiter-app)
+2. ⬆️ Pushed to [soroban-forge-labs/soroban-forge](https://github.com/soroban-forge-labs/soroban-forge)
+3. ⬆️ Pushed to [soroban-forge-labs/soroban-lens](https://github.com/soroban-forge-labs/soroban-lens)
+4. 🎉 Merged PR [#176](https://github.com/SorobanTags/STfrontend/pull/176) in [SorobanTags/STfrontend](https://github.com/SorobanTags/STfrontend)
 <!--END_SECTION:activity-->
 
 ---
